@@ -8,7 +8,7 @@
 </div>
 
 ## 👨‍💻 About Me
-I'm a Full Stack Developer in France who enjoys crafting user-friendly applications. I'm always looking to better my understanding of modern web technologies and am committed to writing code that's not just effective but also easy to understand and maintain.
+I'm a Full Stack Web-Developer from France and I love to craft user-friendly web applications. I'm always looking to better my understanding of modern web technologies and am committed to writing code that's not just effective but also easy to understand and maintain.
 
 ## Tech Stack
 
