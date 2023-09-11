@@ -10,7 +10,7 @@
 ## 💻 About Me
 I'm a Full Stack Web-Developer from France and I love to craft user-friendly web applications. I'm always looking to better my understanding of modern web technologies and am committed to writing code that's not just effective but also easy to understand and maintain.
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Front End
 <p align="left">
