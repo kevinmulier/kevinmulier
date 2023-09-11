@@ -16,6 +16,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinmulier&show_icons=true&locale=en&layout=compact" alt="kevinmulier" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinmulier&show_icons=true&locale=en" alt="kevinmulier" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinmulier&" alt="kevinmulier" /></p>
