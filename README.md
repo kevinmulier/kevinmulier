@@ -69,7 +69,7 @@ I'm a Full Stack Web-Developer from France and I love to craft user-friendly web
 
 ## 📦 Current Projects
 - 📂 Actively working on [Prompt Keeper](https://github.com/kevinmulier/prompt_keeper), a web-app for managing and storing prompts across multiple AI models like ChatGPT, Midjourney, and more.
-- 📚 Currently learning Express.js, React, and MongoDB to expand my Full Stack capabilities.
+- 📚 Currently learning React, Express.js, MongoDB and PostgreSQL to expand my Full Stack capabilities.
 
 ## 📈 GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinmulier&show_icons=true&locale=en&layout=compact" alt="kevinmulier" /></p>
