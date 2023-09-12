@@ -82,6 +82,7 @@ Whether it's optimizing API endpoints or fine-tuning UI components, I deliver da
 ## 📈 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=kevinmulier&show_icons=true&locale=en&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kevinmulier&theme=swift&date_format=j%2Fn%5B%2FY%5D&background=FFFFFF)](https://git.io/streak-stats)
 
 ## 📬 Get in Touch
 
