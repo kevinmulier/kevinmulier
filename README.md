@@ -73,7 +73,6 @@ I'm a Full Stack Web-Developer from France and I love to craft user-friendly web
 
 ## 📈 GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinmulier&show_icons=true&locale=en&layout=compact" alt="kevinmulier" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinmulier&" alt="kevinmulier" /></p>
 
 ## 📬 Get in Touch
 - LinkedIn: [Kevin Mulier](https://www.linkedin.com/in/kevin-mulier/)
