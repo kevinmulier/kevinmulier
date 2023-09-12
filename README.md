@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Kevin 👋🏼</h1>
-<h3 align="center">French Full Stack Developer - MERN</h3>
+<h1 align="center">Hey there, I'm Kevin 👋🏼</h1>
+<h3 align="center">French Full Stack Web Developer - MERN Stack | Digital Explorer | Multi-faceted Web Enthusiast</h3>
 
 <div align="center">
   <a href="https://linkedin.com/in/kevin-mulier">
@@ -8,7 +8,14 @@
 </div>
 
 ## 💻 About Me
-I'm a Full Stack Web-Developer from France and I love to craft user-friendly web applications. I'm always looking to better my understanding of modern web technologies and am committed to writing code that's not just effective but also easy to understand and maintain.
+
+Welcome to my GitHub universe! 
+
+From the moment I coded my first website, I was captivated by the limitless opportunities it unlocked. Now, I specialize in Full Stack Web Development, particularly the MERN stack. 
+
+My philosophy when it comes to building Web Applications is straightforward: build them robust, make them beautiful, and ensure they're user-centric. With my background in marketing, I do more than just code: I create truly engaging user experiences. 
+
+Whether it's optimizing API endpoints or fine-tuning UI components, I deliver data-driven, technical solutions. Let's collaborate to create something awesome! 🚀
 
 ## 🛠️ Tech Stack
 
@@ -68,11 +75,14 @@ I'm a Full Stack Web-Developer from France and I love to craft user-friendly web
 </p>
 
 ## 📦 Current Projects
+
 - 📂 Actively working on [Prompt Keeper](https://github.com/kevinmulier/prompt_keeper), a web-app for managing and storing prompts across multiple AI models like ChatGPT, Midjourney, and more.
-- 📚 Currently learning React, Express.js, MongoDB and PostgreSQL to expand my Full Stack capabilities.
+- 📚 Currently learning React, Express.js, MongoDB, and PostgreSQL to expand my Full Stack capabilities.
 
 ## 📈 GitHub Stats
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinmulier&show_icons=true&locale=en&layout=compact" alt="kevinmulier" /></p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=kevinmulier&show_icons=true&locale=en&layout=compact)
 
 ## 📬 Get in Touch
+
 - LinkedIn: [Kevin Mulier](https://www.linkedin.com/in/kevin-mulier/)
