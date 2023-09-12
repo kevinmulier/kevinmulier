@@ -72,7 +72,7 @@ I'm a Full Stack Web-Developer from France and I love to craft user-friendly web
 - 📚 Currently learning React, Express.js, MongoDB and PostgreSQL to expand my Full Stack capabilities.
 
 ## 📈 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinmulier&show_icons=true&locale=en&layout=compact" alt="kevinmulier" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinmulier&show_icons=true&locale=en&layout=compact" alt="kevinmulier" /></p>
 
 ## 📬 Get in Touch
 - LinkedIn: [Kevin Mulier](https://www.linkedin.com/in/kevin-mulier/)
