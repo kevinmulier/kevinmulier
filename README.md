@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Kevin 👋🏼</h1>
-<h3 align="center">French Full Stack Web Developer - MERN Stack | Digital Explorer | Multi-faceted Web Enthusiast</h3>
+<h3 align="center">French Full Stack Web Developer - MERN Stack | Multi-faceted Web Enthusiast</h3>
 
 <div align="center">
   <a href="https://linkedin.com/in/kevin-mulier">
