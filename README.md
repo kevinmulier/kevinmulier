@@ -76,7 +76,7 @@ Whether it's optimizing API endpoints or fine-tuning UI components, I deliver da
 
 ## 📦 Current Projects
 
-- 📂 Actively working on [Prompt Keeper](https://github.com/kevinmulier/prompt_keeper), a web-app for managing and storing prompts across multiple AI models like ChatGPT, Midjourney, and more.
+- 📂 Actively working on [CaliWox](https://github.com/kevinmulier/caliwox), a web-app allowing users to track their exercises, share workouts, and learn from a community of calisthenics athletes.
 - 📚 Currently learning React, Express.js, MongoDB, and PostgreSQL to expand my Full Stack capabilities.
 
 ## 📈 GitHub Stats
