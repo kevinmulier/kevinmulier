@@ -9,8 +9,6 @@
 
 ## 💻 About Me
 
-Welcome to my GitHub universe! 
-
 From the moment I coded my first website, I was captivated by the limitless opportunities it unlocked. Now, I specialize in Full Stack Web Development, particularly the MERN stack. 
 
 My philosophy when it comes to building Web Applications is straightforward: build them robust, make them beautiful, and ensure they're user-centric. With my background in marketing, I do more than just code: I create truly engaging user experiences. 
