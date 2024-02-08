@@ -75,7 +75,8 @@ Whether it's optimizing API endpoints or fine-tuning UI components, I deliver da
 ## 📦 Current Projects
 
 - 📂 Actively working on [CaliWox](https://caliwox.fr/), a web-app allowing users to track their exercises, share workouts, and learn from a community of calisthenics athletes.
-- 📚 Currently learning React, Express.js, MongoDB, and PostgreSQL to expand my Full Stack capabilities.
+- 📚 Currently improving my React (Redux, Next.js), Express.js, MongoDB, and PostgreSQL knowledge to expand my Full Stack capabilities.
+- ⏭️ Planning to learn C# to enhance my back-end development skills.
 
 ## 📈 GitHub Stats
 
