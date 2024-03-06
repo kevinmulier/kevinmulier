@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Kevin 👋🏼</h1>
-<h3 align="center">French Front End Web Developer - React, TypeScript, JavaScript, Tailwind | Multi-faceted Web Enthusiast</h3>
+<h3 align="center">French Front End Web Developer | React, TypeScript, JavaScript, Tailwind | Multi-faceted Web Enthusiast</h3>
 
 <div align="center">
   <a href="https://linkedin.com/in/kevin-mulier">
