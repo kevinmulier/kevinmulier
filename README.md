@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Kevin 👋🏼</h1>
-<h3 align="center">French Full Stack Web Developer - MERN Stack | Multi-faceted Web Enthusiast</h3>
+<h3 align="center">French Front End Web Developer - React, TypeScript, JavaScript, Tailwind | Multi-faceted Web Enthusiast</h3>
 
 <div align="center">
   <a href="https://linkedin.com/in/kevin-mulier">
@@ -9,11 +9,11 @@
 
 ## 💻 About Me
 
-From the moment I coded my first website, I was captivated by the limitless opportunities it unlocked. Now, I specialize in Full Stack Web Development, particularly the MERN stack. 
+🌐 When I created my first website, I discovered a limitless universe where I could bring my ideas to life. Since then, my passion for web development has only grown, and has even intensified in recent years with a growing interest in AI and automation.
 
-My philosophy when it comes to building Web Applications is straightforward: build them robust, make them beautiful, and ensure they're user-centric. With my background in marketing, I do more than just code: I create truly engaging user experiences. 
+👥 My experience in web marketing has taught me to understand user expectations and to see beyond the code, adding another dimension to my work as a developer. I strive to unite aesthetics and performance, to create web experiences that are not only technically solid but also enjoyable to use and in line with modern expectations.
 
-Whether it's optimizing API endpoints or fine-tuning UI components, I deliver data-driven, technical solutions. Let's collaborate to create something awesome! 🚀
+🚀 I am a digital explorer, always ready to take on new challenges. If you are looking for a front-end developer with a unique perspective, do not hesitate and contact me.
 
 ## 🛠️ Tech Stack
 
@@ -61,14 +61,8 @@ Whether it's optimizing API endpoints or fine-tuning UI components, I deliver da
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="70" height="70"/>
   </a>
-  <a href="https://zapier.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="70" height="70"/>
-  </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="70" height="70"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="70" height="70"/>
   </a>
 </p>
 
@@ -76,7 +70,7 @@ Whether it's optimizing API endpoints or fine-tuning UI components, I deliver da
 
 - 📂 Actively working on [CaliWox](https://caliwox.fr/), a web-app allowing users to track their exercises, share workouts, and learn from a community of calisthenics athletes.
 - 📚 Currently improving my React knowledge to expand my Front End capabilities.
-- ⏭️ Planning to learn Java to enhance my back-end development skills.
+- ⏭️ Planning to learn Next.js.
 
 ## 📈 GitHub Stats
 
