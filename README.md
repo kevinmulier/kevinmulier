@@ -79,12 +79,6 @@
   </a>
 </p>
 
-## 📦 Current Projects
-
-- 📂 Actively working on [CaliWox](https://caliwox.fr/), a web-app allowing users to track their exercises, share workouts, and learn from a community of calisthenics athletes.
-- 📚 Currently improving my React knowledge to expand my Front End capabilities.
-- ⏭️ Planning to learn Next.js.
-
 ## 📈 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=kevinmulier&show_icons=true&locale=en&layout=compact)
