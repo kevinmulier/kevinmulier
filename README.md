@@ -1,89 +1,81 @@
 <h1 align="center">Hey there, I'm Kevin 👋🏼</h1>
-<h3 align="center">French Front End Web Developer | React, TypeScript, JavaScript, Tailwind | Multi-faceted Web Enthusiast</h3>
+<h3 align="center">Product-Oriented Full Stack Web Developer (React / Node / TypeScript / PostgreSQL)</h3>
 
 <div align="center">
-  <a href="https://linkedin.com/in/kevin-mulier">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue"/>
+  <a href="https://linkedin.com/in/kevin-mulier" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:kevin.mulier.dev@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-informational?style=for-the-badge&logo=mail.ru&labelColor=informational"/>
   </a>
 </div>
 
-## 💻 About Me
+<br/>
 
-🌐 When I created my first website, I discovered a limitless universe where I could bring my ideas to life. Since then, my passion for web development has only grown, and has even intensified in recent years with a growing interest in AI and automation.
+## 🚀 About me: Bridging Business & Tech
 
-👥 My experience in web marketing has taught me to understand user expectations and to see beyond the code, adding another dimension to my work as a developer. I strive to unite aesthetics and performance, to create web experiences that are not only technically solid but also enjoyable to use and in line with modern expectations.
+I help web applications convert better, faster, and sustainably.
 
-🚀 I am a digital explorer, always ready to take on new challenges. If you are looking for a front-end developer with a unique perspective, do not hesitate and contact me.
+Based in Nancy (France) and available for remote work, I don't just "code features." 
 
-## 🛠️ Tech Stack
+With a strong background in acquisition marketing (managing €1M+ annual budgets), I approach development with a business-first mindset. I think in terms of funnels, user friction, and retention, ensuring that my technical choices actively serve performance, SEO, and user experience.
 
-### Front End
-<p align="left">
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">          
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="70" height="70"/>
-  </a>
-   
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/>
-  </a>
+**What this means in practice:**
+- 🎯 **Impact-Driven:** I challenge specs if they don't drive real impact, prioritizing what generates results over what is simply "fun to code"
+- 🤝 **Cross-Functional:** I seamlessly bridge the gap between Tech, Design, Product, and Marketing teams.
+- ⚡ **AI-Augmented:** I leverage modern AI tools daily to automate the mundane and focus entirely on architecture, product design, and user needs
 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/typescript/typescript-original.svg" alt="typescript" width="70" height="70"/>
-  </a>
-    
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="70" height="70"/>
-  </a>
+## 💻 Tech Stack & Tools
 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/>
-  </a>
+### Core
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/>
-  </a>
-</p>
+### Modern Infrastructure & Data
+* **APIs & ORMs:** tRPC, Drizzle, Prisma
+* **Cloud & DevOps:** AWS S3, Cloudflare Workers, Docker, Coolify
+* **Testing & Tooling:** Cypress, Jest, Turborepo
 
-### Back End
-<p align="left">
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="70" height="70"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/>
-  </a>
-</p>
+### 🤖 AI-Augmented Development
+* **Tools:** Claude Code, Gemini, Antigravity IDE 
 
-### Other
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original.svg" alt="git" width="70" height="70"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/github/github-original.svg" alt="github" width="70" height="70"/>
-  </a>
-  <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jest/jest-plain.svg" alt="jest" width="70" height="70"/>
-  </a>
-  <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cypressio/cypressio-plain-wordmark.svg" alt="cypress" width="70" height="70"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postman/postman-original.svg" alt="postman" width="70" height="70"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/figma/figma-original.svg" alt="figma" width="70" height="70"/>
-  </a>
-</p>
+### 📈 Marketing & Analytics Edge
+* **Stack:** Google Analytics, Google Tag Manager, Google/Meta Ads
+* **Focus:** SEO optimization via dynamic metadata, SEA strategies, conversion tracking
 
-## 📈 GitHub Stats
+## 📂 Recent highlights
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=kevinmulier&show_icons=true&locale=en&layout=compact)
-[![GitHub Streak](https://streak-stats.demolab.com?user=kevinmulier&theme=swift&date_format=j%2Fn%5B%2FY%5D&background=FFFFFF)](https://git.io/streak-stats)
+* **Plan B Academy (LMS Platform):** Directed a full Front-End redesign. 
 
-## 📬 Get in Touch
+Architected interfaces, databases, and Stripe payment flows. 
 
-- LinkedIn: [Kevin Mulier](https://www.linkedin.com/in/kevin-mulier/)
+Improved SEO via dynamic metadata. Stack: *React, TypeScript, tRPC, Drizzle, Turborepo, Tailwind*.
+
+* **CKJapan:** Developed a full-stack web app for travel photography in Japan. 
+
+Built a relational database with PostgreSQL & Prisma, utilizing AWS S3 for media storage and Cloudflare Workers as a CDN. 
+
+Deployed via Coolify on a VPS.
+
+## 🎌 Beyond the code
+
+I am deeply passionate about well-thought-out products, discussions that blend business strategy with technical architecture, and Japan. 
+
+*Languages: French (Native), English (C2 - TOEIC 990/990), Spanish (B2), Japanese (A2)*
+
+## 📫 Let's work together!
+
+I am currently open to new opportunities and available for both **freelance missions** and **full-time roles (CDI)**. 
+
+If you are looking for a developer who understands both your codebase and your business goals, I'd love to chat.
+
+* 📧 Drop me an email : <a href="mailto:kevin.mulier.dev@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-informational?style=for-the-badge&logo=mail.ru&labelColor=informational"/>
+  </a>
+* 💼 Connect with me : <a href="https://linkedin.com/in/kevin-mulier" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
